@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drumset/static/css/main.58a37f7d.css",
+    "main.js": "/drumset/static/js/main.143f85de.js",
+    "index.html": "/drumset/index.html",
+    "main.58a37f7d.css.map": "/drumset/static/css/main.58a37f7d.css.map",
+    "main.143f85de.js.map": "/drumset/static/js/main.143f85de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a37f7d.css",
+    "static/js/main.143f85de.js"
+  ]
+}
