@@ -16,8 +16,6 @@ function App() {
     setVolume(e.target.value);
   }
 
-  
-
   React.useEffect(() => {
     function handleKeyPress(e) {
       
